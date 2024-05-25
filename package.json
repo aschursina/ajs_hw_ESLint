@@ -1,0 +1,26 @@
+{
+  "name": "ajs_hw_eslint",
+  "version": "1.0.0",
+  "description": "eslint homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aschursina/ajs_hw_ESLint.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Anastasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aschursina/ajs_hw_ESLint/issues"
+  },
+  "homepage": "https://github.com/aschursina/ajs_hw_ESLint#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
